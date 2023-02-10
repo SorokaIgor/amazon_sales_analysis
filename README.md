@@ -1,9 +1,7 @@
-I found this task in https://www.youtube.com/watch?v=eMOA1pPVUc4 and try to solve it by my self 
+In this case we use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
 
 Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html
 Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html
-
-In this case we use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
 
 We start by cleaning our data. Tasks during this section include:
 
@@ -26,3 +24,6 @@ Using the .apply() method
 Using groupby to perform aggregate analysis
 Plotting bar charts and lines graphs to visualize our results
 Labeling our graphs
+
+
+I found this data watching in https://www.youtube.com/watch?v=eMOA1pPVUc4 and try to solve it by my self 
